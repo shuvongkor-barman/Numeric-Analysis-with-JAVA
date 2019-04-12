@@ -27,4 +27,5 @@ Numeric Analysis using Java Programming Language
 ✅ Simpson's 3/3 Rule 
 
 ✅ Weddle's Rule 
+
 ------------------------
